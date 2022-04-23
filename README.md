@@ -8,4 +8,6 @@
 
 - Two pointer
     - [move-zeroes](twoPointer/move-zeroes.js)
-    - [two-sum-ii](twoPointer/two-sum-ii.js)
+    - [two-sum-II](twoPointer/two-sum-ii.js)
+    - [Reverse String](twoPointer/reverseString.js)
+    - [Reverse words in a String III](twoPointer/ReverseWordsInAString.js)
