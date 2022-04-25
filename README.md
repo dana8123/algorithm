@@ -6,7 +6,7 @@
 #### 현재는 리트코드의 일일 알고리즘을 푸는 중.
 [리트코드 일일 알고리즘(14일)](https://leetcode.com/study-plan/algorithm/?progress=ukcked6)
 
-## Two pointer
+- Two pointer
     - [move-zeroes](twoPointer/move-zeroes.js)
     - [two-sum-II](twoPointer/two-sum-ii.js)
     - [Reverse String](twoPointer/reverseString.js)
