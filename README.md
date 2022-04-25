@@ -11,3 +11,5 @@
     - [two-sum-II](twoPointer/two-sum-ii.js)
     - [Reverse String](twoPointer/reverseString.js)
     - [Reverse words in a String III](twoPointer/ReverseWordsInAString.js)
+    - [remove-nth-node-from-end-of-list](twoPointer/removeNthNodeFromEndOfList.js)
+    - [middle-of-the-linked-list](twoPointer/middleOfLinkedList.js)
