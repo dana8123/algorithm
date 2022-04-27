@@ -13,4 +13,7 @@
     - [Reverse words in a String III](twoPointer/ReverseWordsInAString.js)
     - [remove-nth-node-from-end-of-list](twoPointer/removeNthNodeFromEndOfList.js)
     - [middle-of-the-linked-list](twoPointer/middleOfLinkedList.js)
+
+- Sliding window
     - [length-of-longest-substring](slidingWindow/lengthOfLongestSubstring.js)
+    - [permutation-in-string](slidingWindow/permutationInString.js)
