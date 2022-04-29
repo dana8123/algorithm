@@ -18,4 +18,5 @@
     - [length-of-longest-substring](slidingWindow/lengthOfLongestSubstring.js)
     - [permutation-in-string](slidingWindow/permutationInString.js)
 - BFS/DFS
-    - [floodFill](BFSDFS/floodFill.js);
+    - [floodFill](BFSDFS/floodFill.js)
+    - [max-area-of-island](BFSDFS/maxAreaOfIsland.js)
