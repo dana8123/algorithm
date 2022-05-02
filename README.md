@@ -20,3 +20,4 @@
 - BFS/DFS
     - [floodFill](BFSDFS/floodFill.js)
     - [max-area-of-island](BFSDFS/maxAreaOfIsland.js)
+    - [merge-two-binary-trees](BFSDFS/mergeTwoBinaryTrees.js)
