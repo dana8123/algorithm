@@ -22,3 +22,7 @@
     - [max-area-of-island](BFSDFS/maxAreaOfIsland.js)
     - [merge-two-binary-trees](BFSDFS/mergeTwoBinaryTrees.js)
     - [populating-next-right-pointers-in-each-node](BFSDFS/populatingNext.js)
+    - [matrix](BFSDFS/matrix.js)
+    - [rotting-orange](BFSDFS/orange.js)
+- Backtracking
+    - [merge-two-sorted-list](Backtracking/mergeTwoSortedLists.js)
