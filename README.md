@@ -26,3 +26,4 @@
     - [rotting-orange](BFSDFS/orange.js)
 - Backtracking
     - [merge-two-sorted-list](Backtracking/mergeTwoSortedLists.js)
+    - [subsets](Backtracking/subsets.js)
