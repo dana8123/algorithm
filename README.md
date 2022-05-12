@@ -27,3 +27,4 @@
 - Backtracking
     - [merge-two-sorted-list](Backtracking/mergeTwoSortedLists.js)
     - [subsets](Backtracking/subsets.js)
+    - [reverse-linked-list](Backtracking/reverseLinkedList.js);
