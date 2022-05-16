@@ -29,3 +29,4 @@
     - [subsets](Backtracking/subsets.js)
     - [reverse-linked-list](Backtracking/reverseLinkedList.js);
     - [combination](Backtracking/combination.js)
+    - [permuation](Backtracking/permutation.js)
