@@ -27,10 +27,11 @@
 - Backtracking
     - [merge-two-sorted-list](Backtracking/mergeTwoSortedLists.js)
     - [subsets](Backtracking/subsets.js)
-    - [reverse-linked-list](Backtracking/reverseLinkedList.js);
+    - [reverse-linked-list](Backtracking/reverseLinkedList.js)
     - [combination](Backtracking/combination.js)
     - [permuation](Backtracking/permutation.js)
     - [letterPermutation](Backtracking/letterPuermutation.js)
 - DP
     - [climbingStairs](DP/climbingStairs.js)
     - [houseRobbing](DP/houseRobber.js)
+    - [triangle](DP/triangle.js)
