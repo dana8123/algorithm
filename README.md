@@ -35,3 +35,5 @@
     - [climbingStairs](DP/climbingStairs.js)
     - [houseRobbing](DP/houseRobber.js)
     - [triangle](DP/triangle.js)
+- Bit Manipulation
+    - [power of two](bitManipulation/powerOfTwo.js)
