@@ -37,3 +37,4 @@
     - [triangle](DP/triangle.js)
 - Bit Manipulation
     - [power of two](bitManipulation/powerOfTwo.js)
+    - [number of 1 bits](bitManipulation/powerOfTwo.js)
