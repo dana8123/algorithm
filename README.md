@@ -39,3 +39,4 @@
     - [power of two](bitManipulation/powerOfTwo.js)
     - [number of 1 bits](bitManipulation/powerOfTwo.js)
     - [reverse bits](bitManipulation/reverseBits.js)
+    - [singleNumber](bitManipulation/singleNumber.js)
