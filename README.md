@@ -42,3 +42,7 @@
     - [number of 1 bits](bitManipulation/powerOfTwo.js)
     - [reverse bits](bitManipulation/reverseBits.js)
     - [singleNumber](bitManipulation/singleNumber.js)
+
+- Binary search
+    - [Find First and Last Position of Element in Sorted Array](binarySearch/FindFirst.js)
+    - [Search in Rotated Sorted Array](binarySearch/searchInRotate.js)
