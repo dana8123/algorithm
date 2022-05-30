@@ -6,6 +6,10 @@
 
 [리트코드 일일 알고리즘2](https://leetcode.com/study-plan/algorithm/?progress=qyq1u0g)
 
+- Binary search
+    - [Find First and Last Position of Element in Sorted Array](binarySearch/FindFirst.js)
+    - [Search in Rotated Sorted Array](binarySearch/searchInRotate.js)
+
 [리트코드 일일 알고리즘(14일)](https://leetcode.com/study-plan/algorithm/?progress=ukcked6)
 
 - Two pointer
@@ -42,7 +46,3 @@
     - [number of 1 bits](bitManipulation/powerOfTwo.js)
     - [reverse bits](bitManipulation/reverseBits.js)
     - [singleNumber](bitManipulation/singleNumber.js)
-
-- Binary search
-    - [Find First and Last Position of Element in Sorted Array](binarySearch/FindFirst.js)
-    - [Search in Rotated Sorted Array](binarySearch/searchInRotate.js)
