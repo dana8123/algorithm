@@ -4,7 +4,7 @@
 - 알고리즘을 꾸준히 풀어서 사고력을 키우고, 효율적인 코드를 짜는 사람이 되어보자.
 ## 진행
 
-[리트코드 일일 알고리즘2](https://leetcode.com/study-plan/algorithm/?progress=qyq1u0g)
+### [리트코드 일일 알고리즘2](https://leetcode.com/study-plan/algorithm/?progress=qyq1u0g)
 
 - Binary search
     - [Find First and Last Position of Element in Sorted Array](binarySearch/FindFirst.js)
@@ -12,7 +12,7 @@
     - [search 2D matrix](binarySearch/search2Dmatrix.js)
 
 
-[리트코드 일일 알고리즘(14일)](https://leetcode.com/study-plan/algorithm/?progress=ukcked6)
+### [리트코드 일일 알고리즘(14일)](https://leetcode.com/study-plan/algorithm/?progress=ukcked6)
 
 - Two pointer
     - [move-zeroes](twoPointer/move-zeroes.js)
