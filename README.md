@@ -10,6 +10,7 @@
     - [Find First and Last Position of Element in Sorted Array](binarySearch/FindFirst.js)
     - [Search in Rotated Sorted Array](binarySearch/searchInRotate.js)
     - [search 2D matrix](binarySearch/search2Dmatrix.js)
+    - [Find Minimum in rotated sorted array.js](binarySearch/FindMinimuminRotatedSortedArray.js)
 
 
 ### [리트코드 일일 알고리즘(14일)](https://leetcode.com/study-plan/algorithm/?progress=ukcked6)
