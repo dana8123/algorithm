@@ -10,21 +10,31 @@
  * @param {number} n
  * @return {ListNode}
  */
- var removeNthFromEnd = function(head, n) {
-    
-    
-    if(!head) return
+var deleteDuplicates = function (head) {
 
-    let begin = {val:-1, next:head};
-    let [slow, fast] = [begin, begin]
+    let curr = head;
+    let prev = null;
 
-    while(n--) {
-        fast = fast.next;
+    while (curr && curr.next) {
+
+        if (curr.val === curr.next.val) {
+            while (curr && curr.next && curr.val === curr.next.val) {
+                curr = curr.next;
+            }
+
+            curr = curr.next;
+
+            if (!prev) {
+                head = curr;
+            } else {
+                prev.next = curr;
+            }
+        } else {
+            prev = curr;
+            curr = curr.next;
+        }
+
+
     }
-    while(fast.next) {
-        [slow,fast] = [slow.next, fast.next]
-    }
-    
-    slow.next = slow.next.next
-    return begin.next
+    return head
 };

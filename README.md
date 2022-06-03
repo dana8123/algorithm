@@ -12,6 +12,8 @@
     - [search 2D matrix](binarySearch/search2Dmatrix.js)
     - [Find Minimum in rotated sorted array.js](binarySearch/FindMinimuminRotatedSortedArray.js)
     - [Find peak element](binarySearch/FindPeakElement.js)
+- twoPointer
+    - [remove duplicates from sorted list](twoPointer/removeDuplicatesfromSortedList2.js);
 
 
 ### [리트코드 일일 알고리즘(14일)](https://leetcode.com/study-plan/algorithm/?progress=ukcked6)
