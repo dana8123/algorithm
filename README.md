@@ -14,6 +14,7 @@
     - [Find peak element](binarySearch/FindPeakElement.js)
 - twoPointer
     - [remove duplicates from sorted list](twoPointer/removeDuplicatesfromSortedList2.js);
+    - [3Sum.js](twoPointer/3sum.js)
 
 
 ### [리트코드 일일 알고리즘(14일)](https://leetcode.com/study-plan/algorithm/?progress=ukcked6)
