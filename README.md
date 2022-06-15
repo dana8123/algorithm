@@ -10,7 +10,7 @@
     - [소수만들기](Programmers/Level_1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
     - [없는숫자 더하기](Programmers/Level_1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.js)
     - [체육복](Programmers/Level_1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)
-
+    - [숫자문자열과 영단어](Programmers/Level_1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.js)
 ### [리트코드 일일 알고리즘2](https://leetcode.com/study-plan/algorithm/?progress=qyq1u0g)
 
 - Binary search
