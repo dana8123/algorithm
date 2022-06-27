@@ -1,4 +1,4 @@
-const n = 3;
+const n = 10;
 let str = "";
 
 for (let i = 1; i <= n; i++) {
