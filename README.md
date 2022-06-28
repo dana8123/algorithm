@@ -5,7 +5,8 @@
 ## 진행
 
 ### BFS/DFS
-    - [ice](BFSDFS/ice.py)
+- [ice](BFSDFS/ice.py)
+- [maze](BFSDFS/maze.py) 
 ### [programmers]
 - Level 1
     - [음양더하기](Programmers/Level_1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.js)
